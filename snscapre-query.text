@@ -1,0 +1,33 @@
+Estudo de Caso: Vazamento das chaves PIX:
+
+data do ocorrido: 03 a 05 de dezembro de 2021
+data da divulgação: 21/01/2022
+
+
+Antes ocorrido: 
+snscrape --jsonl --progress --max-results 500 --since 2021-11-29 twitter-search "Vazamento chave PIX" > pix-antes.json
+
+
+snscrape --jsonl --progress --max-results 500 --since 2021-12-05 twitter-search "Banco Central: 2021-12-12" > pix-depois.json
+
+data divulgação:
+snscrape --jsonl --progress --max-results 500 --since 2022-01-14 twitter-search "Vazamento chave PIX until 2022-01-21" > pix-antes.json
+
+depois: 
+snscrape --jsonl --progress --max-results 500 --since 2022-01-21 twitter-search "Vazamento chave PIX" > pix-depois.json
+
+
+
+ESTUDO DE CASO: FACEBOOK
+
+14/01/2021
+
+snscrape --jsonl --progress --max-results 5 --since 2021-01-14 twitter-search "Facebook users data breach until:2021-06-14" > Facebook2.json
+
+
+
+--------||------
+testes com  o format:
+snscrape --jsonl --max-results 5 twitter-search "Facebook data leak"> user-tweets.json".format(tweet_count, username)
+
+snscrape --json --max-results 5 twitter-search "facebook data leak" >teste.json
