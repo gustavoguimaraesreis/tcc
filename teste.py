@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import snscrape.modules.twitter as sntwitter
 import datetime
-import search as sh
+import query_builder as sh
 from tqdm.notebook import tqdm_notebook
 
 
@@ -87,4 +87,8 @@ print(tweet_df)
 #                 break
 
 #             tweets_list.append([tweet.Date, tweet.id, tweet.rawContent, tweet.user.username, tweet.lang])
+
+
+
+
 
