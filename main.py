@@ -10,7 +10,7 @@ until = input(('Data de encerramento das buscas: '))
 count = int(input('Quantos tweets voce deseja buscar: '))
 
 
-file_name = f"tweets/facebook/teste/{text}_{since}_{until}.json"
+file_name = f"tweets/facebook/uma-semana/{text}_{since}_{until}.json"
 
 query = qb.query_builder(text, since, until)
 
