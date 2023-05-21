@@ -1,0 +1,151 @@
+[
+ {
+  "id": 1,
+  "title": "Quanto tempo a terra tem?",
+  "question": "Gostaria de saber quantos anos tem a nossa terra, alguém sabe?",
+  "category": "Deep Answer",
+  "tags": [
+   "planeta-terra",
+   "quantos-anos"
+  ],
+  "votes": "00",
+  "author": "",
+  "type": "perguntado",
+  "dataCreated": "2021-08-24T07:45:44Z",
+  "points": "",
+  "answers": [
+   {
+    "id": 1,
+    "questionId": 1,
+    "answerContent": "A ciência estima que a terra tenha em torno de 4,5 bilhões de anos. O universo é estimado de 13 a 18 bilhões de anos. Como que os caras calcularam isso? Também gostaria de saber, provavelmente usando alguma técnica de análise do carbono 14. Se tiver informações, compartilhe, estou com preguiça de procurar, :P",
+    "votes": "0",
+    "type": "respondida",
+    "author": "Elder Rocker",
+    "dataCreated": "2022-03-22T13:56:28Z",
+    "points": "1.0K",
+    "comments": null
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "title": "Me conte um segredo seu",
+  "question": "Prometo que não vou contar pra ninguém",
+  "category": "Deep Answer",
+  "tags": [
+   "segredo"
+  ],
+  "votes": "+1+1+10",
+  "author": "",
+  "type": "perguntado",
+  "dataCreated": "2021-08-24T11:07:19Z",
+  "points": "",
+  "answers": [
+   {
+    "id": 2,
+    "questionId": 4,
+    "answerContent": "Puta q o pariu",
+    "votes": "+1",
+    "type": "respondida",
+    "author": "",
+    "dataCreated": "2021-08-26T21:30:19Z",
+    "points": "",
+    "comments": null
+   },
+   {
+    "id": 3,
+    "questionId": 4,
+    "answerContent": "Quero fazer notas falsas!",
+    "votes": "+1",
+    "type": "respondida",
+    "author": "WOLF",
+    "dataCreated": "2021-08-27T02:36:42Z",
+    "points": "200",
+    "comments": null
+   },
+   {
+    "id": 4,
+    "questionId": 4,
+    "answerContent": "Eu nasci! E comi sua mãe. Não é segredo, huahuahuahuahua. Putz, acho que você comeu minha mãe também, foooooooodeu.....\n\nUm segredo meu.... Vixe, não gosto nem de lembrar certas coisas.",
+    "votes": "0",
+    "type": "respondida",
+    "author": "Elder Rocker",
+    "dataCreated": "2022-03-22T13:59:43Z",
+    "points": "1.0K",
+    "comments": null
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "title": "O Facebook é seguro?",
+  "question": "",
+  "category": "Deep Answer",
+  "tags": [
+   "facebook",
+   "privacidade"
+  ],
+  "votes": "00+10+10",
+  "author": "",
+  "type": "perguntado",
+  "dataCreated": "2021-08-24T11:00:11Z",
+  "points": "",
+  "answers": [
+   {
+    "id": 5,
+    "questionId": 6,
+    "answerContent": "Já não confio mais.. aliás, quem confia?",
+    "votes": "0",
+    "type": "respondida",
+    "author": "",
+    "dataCreated": "2021-08-26T21:29:48Z",
+    "points": "",
+    "comments": null
+   },
+   {
+    "id": 6,
+    "questionId": 6,
+    "answerContent": "Não, aquilo lá já se tornou bem mais do que uma simples rede social e agora já é uma desgraça inevitável por mais que você não use o aplicativo (((deles))) no sentido literal.",
+    "votes": "+1",
+    "type": "respondida",
+    "author": "",
+    "dataCreated": "2022-01-09T13:56:37Z",
+    "points": "",
+    "comments": null
+   },
+   {
+    "id": 7,
+    "questionId": 6,
+    "answerContent": "Fora que agora eles vieram com um conceito de metaverso que talvez será meio perigoso para a humanidade... dependendo do ponto de vista de quem interpreta.",
+    "votes": "0",
+    "type": "respondida",
+    "author": "",
+    "dataCreated": "2022-01-18T18:34:22Z",
+    "points": "",
+    "comments": null
+   },
+   {
+    "id": 8,
+    "questionId": 6,
+    "answerContent": "Tudo o venha do Mark Zuckerberg deve ser imediatamente discreditado. O cara tem fama (e muitas coisas foram provadas a respeito) de ser anti ético. As próprias atitudes dele demonstram que ele não é de confiança, logo, usar qualquer coisa que tenha o dedo podre dele, pode esperar que seus dados serão vendidos para alguém que queira te direcionar anúncios.",
+    "votes": "+1",
+    "type": "respondida",
+    "author": "Elder Rocker",
+    "dataCreated": "2022-03-22T13:58:03Z",
+    "points": "1.0K",
+    "comments": null
+   },
+   {
+    "id": 9,
+    "questionId": 6,
+    "answerContent": "Depende do Ponto de Vista,Já que Privacidade é algo que definitivamente não existe no Facebook.",
+    "votes": "0",
+    "type": "respondida",
+    "author": "Adolfo_DaXj6",
+    "dataCreated": "2022-03-22T18:49:39Z",
+    "points": "190",
+    "comments": null
+   }
+  ]
+ }
+]

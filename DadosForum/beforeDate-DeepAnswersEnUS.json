@@ -1,0 +1,436 @@
+[
+ {
+  "id": 1,
+  "title": "Is facebook secure?",
+  "question": "",
+  "category": "Security and privacy",
+  "tags": [
+   "facebook",
+   "privacy"
+  ],
+  "votes": "+2000000",
+  "author": "",
+  "type": "asked",
+  "dataCreated": "2021-08-24T11:00:11Z",
+  "points": "",
+  "answers": [
+   {
+    "id": 1,
+    "questionId": 1,
+    "answerContent": "Do you really trust on it?",
+    "votes": "0",
+    "type": "answered",
+    "author": "",
+    "dataCreated": "2021-08-25T22:45:42Z",
+    "points": "",
+    "comments": [
+     {
+      "id": 1,
+      "answerId": 1,
+      "comment": "grandparents?",
+      "type": "commented",
+      "author": "YouBetterKillMe",
+      "dataCreated": "2021-09-04T16:29:12Z"
+     },
+     {
+      "id": 2,
+      "answerId": 1,
+      "comment": "Google does not own Facebook?!?!?!?",
+      "type": "commented",
+      "author": "",
+      "dataCreated": "2022-05-18T12:02:08Z"
+     }
+    ]
+   },
+   {
+    "id": 2,
+    "questionId": 1,
+    "answerContent": ". ' . . ' . . ' .NOP . ' . . ' . . ' .",
+    "votes": "0",
+    "type": "answered",
+    "author": "WOLF",
+    "dataCreated": "2021-08-27T02:28:56Z",
+    "points": "150",
+    "comments": [
+     {
+      "id": 3,
+      "answerId": 2,
+      "comment": "grandparents?",
+      "type": "commented",
+      "author": "YouBetterKillMe",
+      "dataCreated": "2021-09-04T16:29:12Z"
+     },
+     {
+      "id": 4,
+      "answerId": 2,
+      "comment": "Google does not own Facebook?!?!?!?",
+      "type": "commented",
+      "author": "",
+      "dataCreated": "2022-05-18T12:02:08Z"
+     }
+    ]
+   },
+   {
+    "id": 3,
+    "questionId": 1,
+    "answerContent": "facebook selling your informations it's not secure at all",
+    "votes": "0",
+    "type": "answered",
+    "author": "YouBetterKillMe",
+    "dataCreated": "2021-09-03T12:15:25Z",
+    "points": "1.2k",
+    "comments": [
+     {
+      "id": 5,
+      "answerId": 3,
+      "comment": "grandparents?",
+      "type": "commented",
+      "author": "YouBetterKillMe",
+      "dataCreated": "2021-09-04T16:29:12Z"
+     },
+     {
+      "id": 6,
+      "answerId": 3,
+      "comment": "Google does not own Facebook?!?!?!?",
+      "type": "commented",
+      "author": "",
+      "dataCreated": "2022-05-18T12:02:08Z"
+     }
+    ]
+   },
+   {
+    "id": 4,
+    "questionId": 1,
+    "answerContent": "No. Who tf uses Facebook for real in 2021?",
+    "votes": "0",
+    "type": "answered",
+    "author": "angelnoctvm",
+    "dataCreated": "2021-09-04T16:25:14Z",
+    "points": "1.3k",
+    "comments": [
+     {
+      "id": 7,
+      "answerId": 4,
+      "comment": "grandparents?",
+      "type": "commented",
+      "author": "YouBetterKillMe",
+      "dataCreated": "2021-09-04T16:29:12Z"
+     },
+     {
+      "id": 8,
+      "answerId": 4,
+      "comment": "Google does not own Facebook?!?!?!?",
+      "type": "commented",
+      "author": "",
+      "dataCreated": "2022-05-18T12:02:08Z"
+     }
+    ]
+   },
+   {
+    "id": 5,
+    "questionId": 1,
+    "answerContent": "dude, not even long ago there has been a huge db leak that revealed, phone, email, name, surname, password, location, work etc. to the public.\nfuck no it is not secure and i do think you should not use it. But if you really want to, please just use a fake email, secure password and log to it only using a vpn. Oh and PLEASE NEVER allow it to have your current location.",
+    "votes": "0",
+    "type": "answered",
+    "author": "",
+    "dataCreated": "2021-09-09T10:36:42Z",
+    "points": "",
+    "comments": [
+     {
+      "id": 9,
+      "answerId": 5,
+      "comment": "grandparents?",
+      "type": "commented",
+      "author": "YouBetterKillMe",
+      "dataCreated": "2021-09-04T16:29:12Z"
+     },
+     {
+      "id": 10,
+      "answerId": 5,
+      "comment": "Google does not own Facebook?!?!?!?",
+      "type": "commented",
+      "author": "",
+      "dataCreated": "2022-05-18T12:02:08Z"
+     }
+    ]
+   },
+   {
+    "id": 6,
+    "questionId": 1,
+    "answerContent": "is this really a question? long story short: no, because google.",
+    "votes": "0",
+    "type": "answered",
+    "author": "JustJuan",
+    "dataCreated": "2021-12-01T16:10:31Z",
+    "points": "1.2k",
+    "comments": [
+     {
+      "id": 11,
+      "answerId": 6,
+      "comment": "grandparents?",
+      "type": "commented",
+      "author": "YouBetterKillMe",
+      "dataCreated": "2021-09-04T16:29:12Z"
+     },
+     {
+      "id": 12,
+      "answerId": 6,
+      "comment": "Google does not own Facebook?!?!?!?",
+      "type": "commented",
+      "author": "",
+      "dataCreated": "2022-05-18T12:02:08Z"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "title": "Do you know GBWhatsApp? Is it secure?",
+  "question": "",
+  "category": "Security and privacy",
+  "tags": [
+   "gbwhatsapp",
+   "security"
+  ],
+  "votes": "000",
+  "author": "",
+  "type": "asked",
+  "dataCreated": "2021-09-10T00:16:00Z",
+  "points": "",
+  "answers": [
+   {
+    "id": 7,
+    "questionId": 5,
+    "answerContent": "yes I use gbwhatsapp and aerowhatsapp its's safe and secure",
+    "votes": "0",
+    "type": "answered",
+    "author": "YouBetterKillMe",
+    "dataCreated": "2021-09-12T09:45:48Z",
+    "points": "1.2k",
+    "comments": [
+     {
+      "id": 13,
+      "answerId": 7,
+      "comment": "They always affirm that GBWhatsApp has a malware but can't prove that.",
+      "type": "commented",
+      "author": "",
+      "dataCreated": "2021-09-12T14:57:22Z"
+     },
+     {
+      "id": 14,
+      "answerId": 7,
+      "comment": "for sure. I personally use and didn't have any problems.\nThey say that GBWhatsApp could steal our sensitive data, but, facebook has leaked the data of their users a lot of time ago.",
+      "type": "commented",
+      "author": "",
+      "dataCreated": "2021-09-15T20:29:44Z"
+     }
+    ]
+   },
+   {
+    "id": 8,
+    "questionId": 5,
+    "answerContent": "Yes. I know many people who use it and until today have never had so many problems as in common WhatsApp, it is usually pointed out as viruses and related by antivirus and several blogs, precisely because it is an application modified to contain certain functions that the standard whatsapp does not have, it is like trying to download a pirated game on your PC, the antivirus will end up accusing malware etc.",
+    "votes": "0",
+    "type": "answered",
+    "author": "angelnoctvm",
+    "dataCreated": "2021-09-14T23:04:19Z",
+    "points": "1.3k",
+    "comments": [
+     {
+      "id": 15,
+      "answerId": 8,
+      "comment": "They always affirm that GBWhatsApp has a malware but can't prove that.",
+      "type": "commented",
+      "author": "",
+      "dataCreated": "2021-09-12T14:57:22Z"
+     },
+     {
+      "id": 16,
+      "answerId": 8,
+      "comment": "for sure. I personally use and didn't have any problems.\nThey say that GBWhatsApp could steal our sensitive data, but, facebook has leaked the data of their users a lot of time ago.",
+      "type": "commented",
+      "author": "",
+      "dataCreated": "2021-09-15T20:29:44Z"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "title": "Any alternative to \"Torum\"?",
+  "question": "If you know any alternative/or any cool forum abt cyber security etc answer this question, all links are welcomeanswer this question, all links are welcome. Thanks.",
+  "category": "Technology",
+  "tags": [
+   "links",
+   "torum",
+   "forum",
+   "technology"
+  ],
+  "votes": "00",
+  "author": "",
+  "type": "asked",
+  "dataCreated": "2021-09-09T16:40:08Z",
+  "points": "",
+  "answers": [
+   {
+    "id": 9,
+    "questionId": 6,
+    "answerContent": "Only spanish foro Hackplayers idk http://foro.hackplayers.com/",
+    "votes": "0",
+    "type": "answered",
+    "author": "JustJuan",
+    "dataCreated": "2021-12-01T16:57:56Z",
+    "points": "1.2k",
+    "comments": null
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "title": "How can i install Windows 11?",
+  "question": "",
+  "category": "Technology",
+  "tags": null,
+  "votes": "000",
+  "author": "",
+  "type": "asked",
+  "dataCreated": "2021-08-29T12:28:33Z",
+  "points": "",
+  "answers": [
+   {
+    "id": 30,
+    "questionId": 44,
+    "answerContent": "Find ISO file then boot to flash etc...",
+    "votes": "0",
+    "type": "answered",
+    "author": "YouBetterKillMe",
+    "dataCreated": "2021-09-03T13:43:19Z",
+    "points": "1.2k",
+    "comments": null
+   },
+   {
+    "id": 31,
+    "questionId": 44,
+    "answerContent": "As the comment of above, you need to use the commonly known Rufus and use the flash. if you have Windows 10 and THE CORRECT REQUIREMENTS,  you can upgrade it by just downloading an the update.",
+    "votes": "0",
+    "type": "answered",
+    "author": "JustJuan",
+    "dataCreated": "2021-12-01T16:09:13Z",
+    "points": "1.2k",
+    "comments": null
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "title": "How can I mount a cheap PC with best setup?",
+  "question": "",
+  "category": "Technology",
+  "tags": null,
+  "votes": "+300",
+  "author": "",
+  "type": "asked",
+  "dataCreated": "2021-09-01T01:05:19Z",
+  "points": "",
+  "answers": [
+   {
+    "id": 32,
+    "questionId": 45,
+    "answerContent": "which country you live in? How's the country economy?",
+    "votes": "0",
+    "type": "answered",
+    "author": "YouBetterKillMe",
+    "dataCreated": "2021-09-03T13:42:38Z",
+    "points": "1.2k",
+    "comments": null
+   },
+   {
+    "id": 33,
+    "questionId": 45,
+    "answerContent": "using ur hands and money",
+    "votes": "0",
+    "type": "answered",
+    "author": "",
+    "dataCreated": "2022-10-07T03:46:29Z",
+    "points": "",
+    "comments": null
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "title": "Scam Forum+Market",
+  "question": "Forum Link SCAM! deeptrheyytwpb5xehoz14M9Lazp6rtqrqv9cxBDryhdr2wFyqswTdyd.onion\n\nMarket Link SCAM!\n\nneptunebzv7mctq2dvtrwiwbkbnylgyvzduw7ft2jqpd25rmzfxrjgqd.onion",
+  "category": "Scams and scammers",
+  "tags": null,
+  "votes": "+3+1+1+1",
+  "author": "YouBetterKillMe",
+  "type": "asked",
+  "dataCreated": "2021-09-03T13:24:52Z",
+  "points": "1.2k",
+  "answers": [
+   {
+    "id": 34,
+    "questionId": 46,
+    "answerContent": "Hi",
+    "votes": "+1",
+    "type": "answered",
+    "author": "",
+    "dataCreated": "2022-05-15T11:32:13Z",
+    "points": "",
+    "comments": [
+     {
+      "id": 23,
+      "answerId": 34,
+      "comment": "hello.",
+      "type": "commented",
+      "author": "YouBetterKillMe",
+      "dataCreated": "2022-06-15T19:46:12Z"
+     }
+    ]
+   },
+   {
+    "id": 35,
+    "questionId": 46,
+    "answerContent": "Hi there, you can easily do a general search for the dark links on the original torch search engine here @http://torchdeedp3i2jigzjdmfpn5ttjhthh5wbmda2rr3jvqjg5p77c54dqd.onion\n\nAt C J Research Chemicals store, you can get the best quality LSD, crystal meth, Acetyl fentanyl, Furanyl Fentanyl, Fentanyl patches, Fentanyl lollipops and fentanyl powder. MDMA, Scopolamine, PRescription drugs, xanax and weed, and lots more.\n\nThey have the best quality that I have ever encountered and they are trusted as I have ordered many times from them in smaller quantities though.\n\nHere is their link @http://kjsba5xg6vb7gvtzu7eecpwvsggem6qbvmw3h5enj3b4viqvksvktuyd.onion/",
+    "votes": "+1",
+    "type": "answered",
+    "author": "voldemort78841307",
+    "dataCreated": "2022-07-28T17:12:23Z",
+    "points": "1.1k",
+    "comments": [
+     {
+      "id": 24,
+      "answerId": 35,
+      "comment": "hello.",
+      "type": "commented",
+      "author": "YouBetterKillMe",
+      "dataCreated": "2022-06-15T19:46:12Z"
+     }
+    ]
+   },
+   {
+    "id": 36,
+    "questionId": 46,
+    "answerContent": "Gorilla glue\nprice:- $260.00\nGorilla Glue  (also known as GG4) created by GG strains is a Sativa-dominant hybrid, a multiple award-winning strain, famous for its high THC content. It averages 18 to 25 percent THC, but you may find it as high as 32 percent at some dispensaries. The CBD is very low, ranging between 0.05 and 0.1 percent.\nClick here to know more About :- http://vrprf65oz2fgib4jvsbizj5ie4r2n4qy65t3qa4yxg233qk25fu3d3yd.onion",
+    "votes": "+1",
+    "type": "answered",
+    "author": "alice545",
+    "dataCreated": "2022-10-07T13:54:05Z",
+    "points": "300",
+    "comments": [
+     {
+      "id": 25,
+      "answerId": 36,
+      "comment": "hello.",
+      "type": "commented",
+      "author": "YouBetterKillMe",
+      "dataCreated": "2022-06-15T19:46:12Z"
+     }
+    ]
+   }
+  ]
+ }
+]
