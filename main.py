@@ -15,13 +15,13 @@ file_name = f"tweets/facebook/uma-semana/{text}_{since}_{until}.json"
 query = qb.query_builder(text, since, until)
 
 
-#Data format: YYYY-MM-DD
-for i,tweet in enumerate(sntwitter.TwitterSearchScraper(query).get_items()):
+for i,tweet in enumerate(
+    sntwitter.TwitterSearchScraper(query).get_items()):
     if i>= count:
         break
-    # tweet.date = tweet.date.strftime("%m/%d/%Y, %H:%M:%S")
     tweet.date = tweet.date.strftime("%d/%m/%Y")
-    tweets_list.append([tweet.date, tweet.id, tweet.rawContent, tweet.user.username, tweet.url])
+    tweets_list.append([tweet.date, tweet.id, tweet.rawContent, 
+                        tweet.user.username, tweet.url])
     
 tweets_df = pd.DataFrame(tweets_list, columns=['Date', 'TweetId', 'TweetContent', 
                                                'Username', 'URL'])
