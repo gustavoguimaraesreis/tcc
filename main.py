@@ -18,7 +18,8 @@ for i,tweet in enumerate(sntwitter.TwitterSearchScraper(query).get_items()):
     if i>= count:
         break
     tweet.date = tweet.date.strftime("%d/%m/%Y")
-    tweets_list.append([tweet.date, tweet.id, tweet.rawContent, tweet.user.username, tweet.url])
+    tweets_list.append([tweet.date, tweet.id, tweet.rawContent, 
+                        tweet.user.username, tweet.url])
     
 tweets_df = pd.DataFrame(tweets_list, columns=['Date', 'TweetId', 'TweetContent', 
                                                'Username', 'URL'])
